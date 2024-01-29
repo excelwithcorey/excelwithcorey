@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1500" height="300" src=https://github.com/excelwithcorey/excelwithcorey/assets/153139454/0ee384d7-7324-4b3f-8155-354711df45e5
+  <img width="1500" height="200" src=https://github.com/excelwithcorey/excelwithcorey/assets/153139454/0ee384d7-7324-4b3f-8155-354711df45e5
 "">
 </p>
 
